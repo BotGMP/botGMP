@@ -3,7 +3,7 @@
 
 int main(void)
 {
-//Leitura e verificação do vetor
+//Leitura e verificaï¿½ï¿½o do vetor
     int vetor[18], k, numero;
 
 
@@ -27,7 +27,7 @@ int main(void)
         }
     }
 
-    /*
+    
 //Funcionalidade 2
     int menor, m,aux, posicao;
     float logaritmo;
@@ -97,7 +97,7 @@ int main(void)
         printf("%d", vetor[k]);
     }
 
-    printf("%d", vetor[0]);//Este print é para saber se está a funcionar
+    printf("%d", vetor[0]);//Este print ï¿½ para saber se estï¿½ a funcionar
 
 
 
@@ -110,7 +110,7 @@ int main(void)
         }
     }
 
-*/
+
 //Funcionalidade 6
 
 
